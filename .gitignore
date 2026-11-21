@@ -1,0 +1,7 @@
+# Sécurité : ne jamais publier les identifiants de base de données locale
+wp-config.php
+
+# Fichiers temporaires et système
+*.log
+.DS_Store
+Thumbs.db
